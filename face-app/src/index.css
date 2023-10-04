@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'EB Garamond', serif;
+  background: linear-gradient(217deg, #8EACCD, #D7E5CA 70.71%),
+              linear-gradient(127deg, #F9F3CC, #D2E0FB 70.71%);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+button {
+  cursor: pointer;
+}
